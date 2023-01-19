@@ -1,5 +1,5 @@
 
-# 3DPass Road Map 2023 (on the process of planning)
+# 3DPass Roadmap 2023 (on the process of planning)
 
 ## Q1 - Mining issues
         - Grid2d algorithm optimization
