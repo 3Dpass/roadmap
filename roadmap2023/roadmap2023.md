@@ -1,5 +1,5 @@
 
-# 3DPass Roadmap 2023 (on the process of planning)
+# 3DPass Roadmap 2023
 
 ## Q1 - Mining issues
    - Grid2d algorithm optimization - [Done](https://github.com/3Dpass/3DP/releases/tag/v0.1.0)
