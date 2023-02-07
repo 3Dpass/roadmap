@@ -2,7 +2,7 @@
 # 3DPass Roadmap 2023 (on the process of planning)
 
 ## Q1 - Mining issues
-        - Grid2d algorithm optimization
+   - Grid2d algorithm optimization - [Done](https://github.com/3Dpass/3DP/releases/tag/v0.1.0)
         - Core: Mining pool trait implementation
         - Web wallet: Validator control panel GUI
         - Governance elections
