@@ -3,9 +3,9 @@
 
 ## Q1 - Mining issues
    - Grid2d algorithm optimization - [Done](https://github.com/3Dpass/3DP/releases/tag/v0.1.0)
-        - Core: Mining pool trait implementation
-        - Web wallet: Validator control panel GUI
-        - Governance elections
+   - Core: Mining pool trait implementation [Done](https://github.com/3Dpass/3DP)
+        - Web wallet: Validator control panel GUI (in the process)
+   - Governance elections [Released](https://github.com/3Dpass/3DP)
 ## Q2 - Object tokenization feature
         - HASH ID: Multi object option implementation
         - Core: Object authentication API implementation
