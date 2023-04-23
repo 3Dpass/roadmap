@@ -4,15 +4,15 @@
 ## Q1 - Mining issues
    - Grid2d algorithm optimization - [Done](https://github.com/3Dpass/3DP/releases/tag/v0.1.0)
    - Core: Mining pool trait implementation [Done](https://github.com/3Dpass/3DP)
-        - Web wallet: Validator control panel GUI (in the process)
+   - Web wallet: Mining pool control panel GUI [Done](https://wallet.3dpass.org)
    - Governance elections [Released](https://github.com/3Dpass/3DP)
 ## Q2 - Object tokenization feature
-        - HASH ID: Multi object option implementation
-        - Core: Object authentication API implementation
-        - 3DP-RC2 smart contract standard for NFTs based on HASH ID
+   - HASH ID: Multi object option implementation (in the process)
+   - Core: Object authentication API implementation (in the process)
+   - 3DP-RC2 smart contract standard for NFTs based on HASH ID (in the process)
         - Mobile wallet: 3DP-RC2 integration
         - Web3 wallet: 3DP-RC2 integration
-        - CEX: Coinex or Gate.io (middle size CEX listing)
+        - CEX: middle size CEX listing
 ## Q3 - Asset marketplace
         - Web wallet: Asset/NFT marketplace implementation
         - DEX: Cross-chain bridge with Polkadot or Ethereum
