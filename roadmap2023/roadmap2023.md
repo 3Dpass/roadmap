@@ -24,5 +24,5 @@
 ## Q4 - New recognition algorithm
    - Core: 2D drawings recognition algorrithm implementation (in the process)
    - Demo dApp
-   - CEX: Tier 1 exchange listing ([MEXC](https://www.mexc.com/) listing is in the process)
+   - CEX: Tier 1 exchange listing - listed on [MEXC](https://www.mexc.com/exchange/P3D_USDT)
    - Faundation: forming up
