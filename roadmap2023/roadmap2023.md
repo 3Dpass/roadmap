@@ -20,8 +20,9 @@
    - Web wallet: Asset/NFT marketplace implementation
    - DEX: Cross-chain bridge with Polkadot or Ethereum
    - EVM (Ethereum Virtual Machine) emulator trait
-   - DEX integration
+   - DEX integration ([Substrate embedded DEX module](https://github.com/paritytech/substrate/tree/master/frame/asset-conversion) is being tested on testnet)
 ## Q4 - New recognition algorithm
+   - Unexpected security patch for the validator set (in the process)
    - Core: 2D drawings recognition algorrithm implementation (in the process)
    - Demo dApp
    - CEX: Tier 1 exchange listing - listed on [MEXC](https://www.mexc.com/exchange/P3D_USDT)
