@@ -20,7 +20,7 @@
    - Web wallet: Asset/NFT marketplace implementation
    - DEX: Cross-chain bridge with Ethereum (in the process)
    - EVM (Ethereum Virtual Machine) emulator trait (in the process)
-   - DEX integration ([embedded DEX module](https://github.com/3Dpass/3DP/tree/main/pallets/asset-conversion) based on [Uniswap 2](https://github.com/Uniswap/v2-core) protocol rules is [releadsed](https://github.com/3Dpass/3DP/releases/tag/v10)
+   - DEX integration ([embedded DEX module](https://github.com/3Dpass/3DP/tree/main/pallets/asset-conversion) based on [Uniswap 2](https://github.com/Uniswap/v2-core) protocol rules is [released](https://github.com/3Dpass/3DP/releases/tag/v10)
 ## Q4 - New recognition algorithm
    - Unexpected security patch for the validator set (in the process, parcially released in [v10](https://github.com/3Dpass/3DP/releases/tag/v10))
    - Core: 2D drawings recognition algorrithm implementation (in the process)
